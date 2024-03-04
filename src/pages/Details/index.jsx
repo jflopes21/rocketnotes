@@ -10,7 +10,7 @@ export function Details() {
 
       <Button title="Login" loading />
       <Button title="Cadastrar" />
-      <Button title="Buscar" />
+      <Button title="Voltar" />
     </Container>
   );
 }
